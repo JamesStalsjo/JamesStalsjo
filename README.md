@@ -2,7 +2,7 @@
 
 #### I'm James
 
-I'm a psychology graduate looking to Learn how 2 Code
+I'm a psychology graduate trying to Learn how 2 Code
 
 
 
