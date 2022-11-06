@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-####I'm James
+#### I'm James
 
 I'm a psychology graduate looking to Learn how 2 Code
+
+
 
 
 <!--
