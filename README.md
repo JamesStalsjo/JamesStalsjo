@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+####I'm James
+
+I'm a psychology graduate looking to Learn how 2 Code
+
+
 <!--
 **JamesStalsjo/JamesStalsjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
